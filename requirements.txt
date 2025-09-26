@@ -1,0 +1,7 @@
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+llama-index-readers-web
+python-dotenv
+torch
+sentence-transformers
