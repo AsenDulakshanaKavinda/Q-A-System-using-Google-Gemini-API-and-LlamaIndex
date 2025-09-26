@@ -1,2 +1,2 @@
-# Q-A-System-using-OpenAI-API-and-LlamaIndex
+# Q-A-System-using-Google-Gemini-API-and-LlamaIndex
 A guided project
