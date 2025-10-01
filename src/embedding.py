@@ -3,11 +3,8 @@ import sys
 from logger import logging as log
 from exception import ProjectException
 
-from data_ingestion import load_data
-from model_api import load_model
-
-from data_ingestion import load_data
-from model_api import load_model
+from .data_ingestion import load_data
+from .model_api import load_model
 
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_index.core import Settings
