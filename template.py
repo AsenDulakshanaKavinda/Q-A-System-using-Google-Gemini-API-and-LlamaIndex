@@ -5,9 +5,9 @@ from pathlib import Path
 list_of_file = [
     "src/__init__.py",
     "src/data_ingestion.py",
-    "src/embeding.py",
+    "src/embedding.py",
     "src/model_api.py",
-    "Expetiments/experiment.ipynb",
+    "Experiments/experiment.ipynb",
     "logger/__init__.py",
     "StreamlitApp.py",
     "exception/__init__.py",
